@@ -13,4 +13,4 @@ Forgot password template:
 
 ![alt text](image/forgot-pswd-form.PNG "Forgot password template")
 
-For more tutorial please visit: https://jaironlanda.com
+For more tutorial please visit: https://jaironlanda.com/blog/Bootstrap%203/bootstrap-3-login-register-and-forgot-password-template
